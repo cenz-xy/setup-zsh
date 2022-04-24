@@ -36,6 +36,6 @@ pkg install colorls
 ```
 #### Setup shortcut
 ```
-sed "/# Example aliases/a alias la='colorls -a --sd'" ~/.zshrc
+sed "/# Example aliases/a alias ll='colorls -a --sd'" ~/.zshrc
 sed "/# Example aliases/a alias la='colorls -la --sd'" ~/.zshrc
 ```
