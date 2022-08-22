@@ -3,7 +3,7 @@
 ## Termux
 ### Install ZSH
 ```
-pkg install zsh tset
+pkg install zsh
 ```
 ### Make ZSH default shell
 ```
